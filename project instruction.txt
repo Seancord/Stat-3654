@@ -1,3 +1,8 @@
 You will upload all files related to your project to the CMDA repository and collaborate with your 
 team members using it, as well as keep track of all code versions and modifications
-and name it “project.txt"
+and name it â€œproject.txt"
+
+<You can make changes locally and sync
+them to this webpage or on the web and then save locally.
+In git language, instead of "saving", we can say "commit
+and sync or "commit and push".>
